@@ -27,4 +27,4 @@ If you encounter problems or have suggestions for improvements during use, pleas
 
 ## Developer
 
-**MasterMarisa**
+**KomeijiMarisa**
